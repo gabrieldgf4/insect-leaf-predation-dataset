@@ -5,3 +5,8 @@ The Insect Leaf Predation Dataset results from applying leaf damage simulation c
 <!-- ![alt tag](https://github.com/gabrieldgf4/insect-leaf-predation-dataset/assets/63321757/811d1daf-d45b-4b9b-80ff-c8515952e623) -->
 
 <img src="https://github.com/gabrieldgf4/insect-leaf-predation-dataset/assets/63321757/811d1daf-d45b-4b9b-80ff-c8515952e623" width=75% height=75%>
+
+You can download the code by:
+
+    git clone https://github.com/gabrieldgf4/insect-leaf-predation-dataset.git
+    cd insect-leaf-predation-dataset
